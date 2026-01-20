@@ -1,7 +1,7 @@
 <h1 align="center"> Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I'm Abhijith Pratheesh</h1>
  <!----Tag line------>
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Web+Development;Gen-AI+Enthusiast" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Python;Gen-AI+Enthusiast" alt="Headline" />
     </div>
 <!-- <p align="center"><a href="https://abhijith314.github.io">Portfolio↗️</a></p> -->
 
@@ -10,11 +10,11 @@
 <!-- ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b> -->
 ## 👨‍💻<b>About Me </b>
 
-- 🔭 I’m currently working on [Portfolio Builder](https://github.com/Abhijith314/Portfolio_Builder)
+- 🔭 I’m currently working on [Automated-Smart-Shopping-Cart](https://github.com/Abhijith314/Automated-Smart-Shopping-Cart)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **abhijithpratheesh314@gmail.com**
 
