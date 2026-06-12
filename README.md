@@ -82,7 +82,7 @@
     </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
+<!--- trophy (start) 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijith314&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="abhijith314" /></a> </p>
 <!--- trophy (end) -->
 
